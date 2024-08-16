@@ -6,4 +6,4 @@ Esse repositório contém os detalhes do projeto de análise de dados realizado 
 - Apresente os resultados (aprox.: 15 a 20 min) usando o que aprendeu no modulo de Apresentação e Storytelling.
 
 ## Resultado
-Análise do Preço de Venda de Imóveis[https://www.canva.com/design/DAGNIZ6N2Ls/l1Hw2yuFj1Xc5xGV_tF85g/view?utm_content=DAGNIZ6N2Ls&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel]
+[Análise do Preço de Venda de Imóveis](https://www.canva.com/design/DAGNIZ6N2Ls/l1Hw2yuFj1Xc5xGV_tF85g/view?utm_content=DAGNIZ6N2Ls&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
